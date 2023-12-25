@@ -1,34 +1,35 @@
-- 👋 Hi, I’m @CyberLocc
-<h1></h1>
+# Francis Skibicki III
+#### **`Tech Enthusiast, IT Professional, and Aspiring Ethical Hacker.`**
+
+
 
 
 
 <table>
 <tr>
 <th align="center">
-<h1> 
+<h2> 
 👨‍💻 My Hacking Profiles:
-</h1>
+</h2>
 </th>
 <th align="center">
-<h1> 
+<h2> 
 📖 Other Content Profiles:
-</h1>
+</h2>
 </th>
 </tr>
 <tr>
 <td align="center">
-<!-- Column 1 -->
-<a href="https://app.hackthebox.com/profile/1577673"><img alt="Hack the Box" width="23%" src="https://cdn.simpleicons.org/hackthebox" /></a>
-&nbsp;&nbsp;<a href="https://tryhackme.com/p/CyberLocc"><img alt="Try Hack Me" width="23%" src="https://cdn.simpleicons.org/tryhackme" /></a>
-&nbsp;<a href="https://hackerone.com/cyberlocc?type=user"><img alt="HackerOne" width="23%" src="https://cdn.simpleicons.org/hackerone" /></a>
-&nbsp;<a href="https://bugcrowd.com/CyberLocc"><img alt="BugCrowd" width="23%" src="https://cdn.simpleicons.org/bugcrowd" /></a>
+<a href="https://app.hackthebox.com/profile/1577673"><img alt="Hack the Box" width="21%" src="https://cdn.simpleicons.org/hackthebox" /></a>
+&nbsp;&nbsp;<a href="https://tryhackme.com/p/CyberLocc"><img alt="Try Hack Me" width="21%" src="https://cdn.simpleicons.org/tryhackme" /></a>
+&nbsp;<a href="https://hackerone.com/cyberlocc?type=user"><img alt="HackerOne" width="21%" src="https://cdn.simpleicons.org/hackerone" /></a>
+&nbsp;<a href="https://bugcrowd.com/CyberLocc"><img alt="BugCrowd" width="21%" src="https://cdn.simpleicons.org/bugcrowd" /></a>
 </td>
 <td align="center">
-<a href="https://www.linkedin.com/in/francisskibicki/"><img alt="LinkedIn" width="22%" src="https://cdn.simpleicons.org/linkedin" /></a>
-&nbsp;&nbsp;<a href="https://stackoverflow.com/users/12873617/cyber-locc?tab=summary"><img alt="Stack Overflow" width="22%" src="https://cdn.simpleicons.org/stackoverflow" /></a>
-&nbsp;&nbsp;<a href="https://www.reddit.com/user/Cyberlocc/"><img alt="Reddit" width="22%" src="https://cdn.simpleicons.org/reddit" /></a>
-&nbsp;<a href="https://medium.com/@cyberlocc"><img alt="Medium" width="22%" src="https://cdn.simpleicons.org/medium" /></a>
+<a href="https://www.linkedin.com/in/francisskibicki/"><img alt="LinkedIn" width="20%" src="https://cdn.simpleicons.org/linkedin" /></a>
+&nbsp;&nbsp;<a href="https://stackoverflow.com/users/12873617/cyber-locc?tab=summary"><img alt="Stack Overflow" width="20%" src="https://cdn.simpleicons.org/stackoverflow" /></a>
+&nbsp;&nbsp;<a href="https://www.reddit.com/user/Cyberlocc/"><img alt="Reddit" width="20%" src="https://cdn.simpleicons.org/reddit" /></a>
+&nbsp;<a href="https://medium.com/@cyberlocc"><img alt="Medium" width="20%" src="https://cdn.simpleicons.org/medium" /></a>
 </td>
 </tr>
 </table>
