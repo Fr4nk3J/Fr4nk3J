@@ -25,10 +25,10 @@
 &nbsp;<a href="https://bugcrowd.com/CyberLocc"><img alt="BugCrowd" width="23%" src="https://cdn.simpleicons.org/bugcrowd" /></a>
 </td>
 <td align="center">
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/francisskibicki/"><img alt="LinkedIn" width="22%" src="https://cdn.simpleicons.org/linkedin" /></a>
-&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/12873617/cyber-locc?tab=summary"><img alt="Stack Overflow" width="22%" src="https://cdn.simpleicons.org/stackoverflow" /></a>
-&nbsp;&nbsp;&nbsp;<a href="https://www.reddit.com/user/Cyberlocc/"><img alt="Reddit" width="22%" src="https://cdn.simpleicons.org/reddit" /></a>
-&nbsp;&nbsp;<a href="https://medium.com/@cyberlocc"><img alt="Medium" width="22%" src="https://cdn.simpleicons.org/medium" /></a>
+<a href="https://www.linkedin.com/in/francisskibicki/"><img alt="LinkedIn" width="22%" src="https://cdn.simpleicons.org/linkedin" /></a>
+&nbsp;&nbsp;<a href="https://stackoverflow.com/users/12873617/cyber-locc?tab=summary"><img alt="Stack Overflow" width="22%" src="https://cdn.simpleicons.org/stackoverflow" /></a>
+&nbsp;&nbsp;<a href="https://www.reddit.com/user/Cyberlocc/"><img alt="Reddit" width="22%" src="https://cdn.simpleicons.org/reddit" /></a>
+&nbsp;<a href="https://medium.com/@cyberlocc"><img alt="Medium" width="22%" src="https://cdn.simpleicons.org/medium" /></a>
 </td>
 </tr>
 </table>
