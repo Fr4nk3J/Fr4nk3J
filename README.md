@@ -8,7 +8,7 @@
 
 ## Skills: 
 <p align="left">
-
+<br>
 <!-- General --> 
 <img alt="Windows" width="5%" src="https://cdn.simpleicons.org/windows" />
 <img alt="Apple" width="5%" src="https://cdn.simpleicons.org/apple" />
