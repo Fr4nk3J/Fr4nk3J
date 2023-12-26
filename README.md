@@ -60,11 +60,11 @@
 <br> <Br> 
 ## 👨‍💻 Explore My Profiles:<br>
 <p align="center">
-<a href="https://app.hackthebox.com/profile/1577673"><img alt="Hack the Box" width="10%" src="https://cdn.simpleicons.org/hackthebox" /></a>
+<a href="https://www.linkedin.com/in/francisskibicki/"><img alt="LinkedIn" width="10%" src="https://cdn.simpleicons.org/linkedin" /></a>
+&nbsp;<a href="https://app.hackthebox.com/profile/1577673"><img alt="Hack the Box" width="10%" src="https://cdn.simpleicons.org/hackthebox" /></a>
 &nbsp;<a href="https://tryhackme.com/p/CyberLocc"><img alt="Try Hack Me" width="10%" src="https://cdn.simpleicons.org/tryhackme" /></a>
 &nbsp;<a href="https://hackerone.com/cyberlocc?type=user"><img alt="HackerOne" width="10%" src="https://cdn.simpleicons.org/hackerone" /></a>
 &nbsp;<a href="https://bugcrowd.com/CyberLocc"><img alt="BugCrowd" width="10%" src="https://cdn.simpleicons.org/bugcrowd" /></a>
-&nbsp;<a href="https://www.linkedin.com/in/francisskibicki/"><img alt="LinkedIn" width="10%" src="https://cdn.simpleicons.org/linkedin" /></a>
 &nbsp;<a href="https://stackoverflow.com/users/12873617/cyber-locc?tab=summary"><img alt="Stack Overflow" width="10%" src="https://cdn.simpleicons.org/stackoverflow" /></a>
 &nbsp;<a href="https://www.reddit.com/user/Cyberlocc/"><img alt="Reddit" width="10%" src="https://cdn.simpleicons.org/reddit" /></a>
 &nbsp;<a href="https://medium.com/@cyberlocc"><img alt="Medium" width="10%" src="https://cdn.simpleicons.org/medium" /></a>
