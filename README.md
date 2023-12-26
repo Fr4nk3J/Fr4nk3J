@@ -5,6 +5,7 @@
 ### Hello, my name is Francis, aka 'Cyber Locc', a tech enthusiast and IT professional who enjoys exploring various aspects of technology. I have a primary interest in offensive security, such as pentesting, bug bounties, and exploit & malware development. I also enjoy learning defensive security concepts and strategies, as well as dabbling in web development and graphic design." 
 
 
+
 ## My Skills: 
 
 `Skill 1` `skill 2` `skill 3` `skill 4` `skill 4` 
