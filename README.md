@@ -6,10 +6,46 @@
 
 <br>
 
-## My Skills: 
+## Skills: 
+<p align="left">
 
-`Skill 1` `skill 2` `skill 3` `skill 4` `skill 4` 
-`skill 5` `skill 6` `skill 7` `skill 8` `skill 9`
+<!-- General --> 
+<img alt="Windows" width="5%" src="https://cdn.simpleicons.org/windows" />
+<img alt="Apple" width="5%" src="https://cdn.simpleicons.org/apple" />
+<img alt="" width="5%" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png?20191030192001" />
+<img alt="" width="5%" src="https://cdn.simpleicons.org/Kalilinux" />
+<img alt="" width="5%" src="https://cdn.simpleicons.org/Ubuntu" />
+<img alt="Pfsense" width="5%" src="https://cdn.simpleicons.org/pfsense" />
+<img alt="Opensense" width="5%" src="https://cdn.simpleicons.org/opnsense" />
+<img alt="Freenas" width="5%" src="https://cdn.simpleicons.org/freenas" />
+<img alt="Vmware" width="5%" src="https://cdn.simpleicons.org/vmware" />
+
+<!-- Programming/Scripting -->
+<img alt="" width="5%" src="https://cdn.simpleicons.org/gnubash" />
+<img alt="" width="5%" src="https://cdn.simpleicons.org/powershell" />
+<img alt="" width="5%" src="https://cdn.simpleicons.org/python" />
+
+<!-- Web Dev -->
+<img alt="" width="5%" src="https://cdn.simpleicons.org/html5" />
+<img alt="" width="5%" src="https://cdn.simpleicons.org/css3" />
+<img alt="" width="5%" src="https://cdn.simpleicons.org/javascript" />
+<img alt="" width="5%" src="https://cdn.simpleicons.org/jquery" />
+<img alt="" width="5%" src="https://cdn.simpleicons.org/mysql" />
+<img alt="" width="5%" src="https://cdn.simpleicons.org/mariadb" />
+
+<!-- Security --><br><br> 
+<img alt="Nessus" width="5%" src="https://www.svgrepo.com/show/331601/tenable.svg" />
+<img alt="Wireshark" width="5%" src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" />
+<img alt="Burpsuite" width="5%" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" />
+<img alt="Metasploit" width="5%" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" />
+<img alt="Nmap" width="5%" src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" />
+<img alt="Gobuster" width="5%" src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" />
+<img alt="crackmapexec" width="5%" src="https://www.kali.org/images/tool-logo-crackmapexec.svg" />
+<img alt="SQLmap" width="5%" src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" />
+<img alt="John the Ripper" width="5%" src="https://www.kali.org/tools/john/images/john-logo.svg" />
+<img alt="Hashcat" width="5%" src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" />
+</p>
+
 
 ## My Projects:
 <br> <Br> 
