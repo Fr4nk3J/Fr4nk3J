@@ -1,5 +1,5 @@
 
-# Francis J. Skibicki III <img alt="Picture of Me" width="25%" align="right"  src="https://github.com/CyberLocc/CyberLocc/blob/main/Francis%20Skibicki.png?raw=true" />
+# Francis J. Skibicki III <img alt="Picture of Me" width="25%" align="right"  src="https://github.com/CyberLocc/CyberLocc/blob/main/Francis-Skibicki-III.png?raw=true" />
 
 ### Hello, my name is Francis, aka 'Cyber Locc', a tech enthusiast and IT professional who enjoys exploring various aspects of technology. I have a primary interest in offensive security, such as pentesting, bug bounties, and exploit & malware development. I also enjoy learning defensive security concepts and strategies, as well as dabbling in web development and graphic design." 
 
