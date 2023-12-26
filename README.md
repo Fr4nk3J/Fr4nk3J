@@ -39,11 +39,20 @@
 <img alt="Burpsuite" width="5%" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" />
 <img alt="Metasploit" width="5%" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" />
 <img alt="Nmap" width="5%" src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" />
+<img alt="TheHarvester" width="5%" src="https://www.kali.org/tools/theharvester/images/theharvester-logo.svg" />
+<img alt="DNSEnum" width="5%" src="https://www.kali.org/tools/dnsenum/images/dnsenum-logo.svg" />
 <img alt="Gobuster" width="5%" src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" />
+<img alt="Dirbuster" width="5%" src="https://www.kali.org/tools/dirbuster/images/dirbuster-logo.svg" />
 <img alt="crackmapexec" width="5%" src="https://www.kali.org/images/tool-logo-crackmapexec.svg" />
 <img alt="SQLmap" width="5%" src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" />
 <img alt="John the Ripper" width="5%" src="https://www.kali.org/tools/john/images/john-logo.svg" />
 <img alt="Hashcat" width="5%" src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" />
+<img alt="Netcat" width="5%" src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" />
+<img alt="Mimikatz" width="5%" src="https://www.kali.org/tools/mimikatz/images/mimikatz-logo.svg" />
+<img alt="Bloodhound" width="5%" src="https://www.kali.org/tools/bloodhound/images/bloodhound-logo.svg" />
+<img alt="EvilWinRM" width="5%" src="https://www.kali.org/tools/evil-winrm/images/evil-winrm-logo.svg" />
+<img alt="Ffuf" width="5%" src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" />
+
 </p>
 
 
