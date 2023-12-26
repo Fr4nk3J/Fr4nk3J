@@ -1,6 +1,6 @@
 
 
-# Francis J. Skibicki III <img alt="Picture of Me" width="275px" align="right"  src="https://github.com/CyberLocc/CyberLocc/blob/main/Francis-Skibicki-III.png?raw=true" />&nbsp;
+# Francis J. Skibicki III <img alt="Picture of Me" width="275px" align="right"  src="https://github.com/CyberLocc/CyberLocc/blob/main/Francis-Skibicki-III.png?raw=true" />&nbsp;&nbsp;&nbsp;
 
 
 
