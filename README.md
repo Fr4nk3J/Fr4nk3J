@@ -1,4 +1,4 @@
-# Francis J. Skibicki III <img alt="Picture of Me" width="300px" align="right" src="https://github.com/CyberLocc/CyberLocc/blob/main/Francis-Skibicki-III.png?raw=true" />
+# Francis J. Skibicki III <img alt="Picture of Me" width="300px" align="right" src="https://github.com/CyberLocc/CyberLocc/blob/main/img_fs.png?raw=true" />
 `Tech Enthusiast, IT Professional, Aspiring Ethical Hacker`
 <br>
 
