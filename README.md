@@ -54,7 +54,6 @@
 
 </p>
 
-<br>
 
 # `$ buster dir -u cyber.locc -w profiles`
 
@@ -69,7 +68,6 @@
 &nbsp;<a href="https://www.reddit.com/user/Cyberlocc/"><img alt="Reddit" width="10%" src="https://cdn.simpleicons.org/reddit" /></a>
 &nbsp;<a href="https://medium.com/@cyberlocc"><img alt="Medium" width="10%" src="https://cdn.simpleicons.org/medium" /></a>
 </p>
-<br>
 
 # `> SELECT * FROM Certifications ` 
 <br>
