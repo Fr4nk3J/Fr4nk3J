@@ -6,7 +6,7 @@
 
 <br>
 
-## Skills: 
+## 💪🏻 Skills: 
 <p align="left">
 <br>
 <!-- General --> 
