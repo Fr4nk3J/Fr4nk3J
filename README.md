@@ -56,7 +56,7 @@
 
 <br>
 
-# `$ gobuster dir -u cyber.locc -w profiles`
+# `$ buster dir -u cyber.locc -w profiles`
 
 <br>
 <p align="center">
