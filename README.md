@@ -4,7 +4,7 @@
 
 ### Hello, my name is Francis, aka 'Cyber Locc', I enjoy exploring various aspects of technology. I have a primary interest in offensive security, such as pentesting, bug bounties, and exploit & malware development. I also enjoy learning defensive security concepts and strategies, as well as dabbling in web development and graphic design." 
 
-<br><br><br>
+<br>
 
 ## Skills: 
 <p align="left">
@@ -55,6 +55,7 @@
 
 </p>
 
+<br><br>
 ## 👨‍💻 Explore My Profiles:<br>
 <p align="center">
 <a href="https://www.linkedin.com/in/francisskibicki/"><img alt="LinkedIn" width="10%" src="https://cdn.simpleicons.org/linkedin" /></a>
