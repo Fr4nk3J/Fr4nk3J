@@ -2,7 +2,7 @@
  </br>
 ### Hello, my name is Francis J. Skibicki III, aka 'Cyber Locc', I enjoy exploring various aspects of technology. I have a primary interest in offensive security, such as pentesting, bug bounties, and exploit & malware development. I also enjoy learning defensive security concepts and strategies, as well as dabbling in web development and graphic design." 
 
-<br>
+<br> </br>
 
 # `$ cat skills:` 
 <p align="left">
