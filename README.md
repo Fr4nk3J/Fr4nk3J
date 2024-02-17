@@ -5,7 +5,7 @@
 
 <br>
 
-# `$ cat skills.txt | grep relvant` 
+# `$ cat skills.txt | grep relevant` 
 <p align="left">
 <br>
 <!-- General --> 
