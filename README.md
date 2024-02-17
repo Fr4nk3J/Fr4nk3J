@@ -56,7 +56,9 @@
 
 <br>
 
-## '$ gobuster dir -u cyber.locc -w profiles '<br>
+## `$ gobuster dir -u cyber.locc -w profiles`
+
+<br>
 <p align="center">
 <a href="https://www.linkedin.com/in/francisskibicki/"><img alt="LinkedIn" width="10%" src="https://cdn.simpleicons.org/linkedin" /></a>
 &nbsp;<a href="https://app.hackthebox.com/profile/1577673"><img alt="Hack the Box" width="10%" src="https://cdn.simpleicons.org/hackthebox" /></a>
