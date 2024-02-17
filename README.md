@@ -55,7 +55,7 @@
 </p>
 
 
-# `$ buster dir -u cyber.locc -w profiles`
+# `$ buster dir -u Cyber.Locc -w profiles`
 
 <br>
 <p align="center">
