@@ -55,9 +55,6 @@
 
 </p>
 
-
-## My Projects:
-<br> <Br> 
 ## 👨‍💻 Explore My Profiles:<br>
 <p align="center">
 <a href="https://www.linkedin.com/in/francisskibicki/"><img alt="LinkedIn" width="10%" src="https://cdn.simpleicons.org/linkedin" /></a>
