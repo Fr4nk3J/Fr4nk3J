@@ -71,7 +71,7 @@
 </p>
 <br>
 
-# `SQL> SELECT * FROM Certifications WHERE Active=True; ` 
+# `> SELECT * FROM Certifications WHERE Active=True; ` 
 <br>
 <a href="https://www.credly.com/badges/361f56c5-1a08-4096-a942-280339967ea3/public_url"><img alt="Google Cyber Security" width="12%" src="https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" /></a>
 <a href="https://www.credly.com/badges/b4bbfaa4-c3ea-4643-bfe4-d41d9293f79b/public_url"><img alt="Google Cyber Security" width="12%" src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logosecurityplus.svg?sfvrsn=35a7d752_2" /></a>
