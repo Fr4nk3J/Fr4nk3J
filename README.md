@@ -10,7 +10,7 @@ Hello, my name is Francis J. Skibicki III, aka 'Fr4nk3J', I enjoy exploring vari
 <p align="left">
 <br>
 <!-- General --> 
-<img alt="Windows" width="5%" src="https://cdn.simpleicons.org/windows" />
+<img alt="Windows" width="5%" src="https://cdn1.iconfinder.com/data/icons/operating-system-flat-1/30/windows_7-512.png" />
 <img alt="Apple" width="5%" src="https://cdn.simpleicons.org/apple" />
 <img alt="" width="5%" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png?20191030192001" />
 <img alt="" width="5%" src="https://cdn.simpleicons.org/Kalilinux" />
@@ -43,7 +43,7 @@ Hello, my name is Francis J. Skibicki III, aka 'Fr4nk3J', I enjoy exploring vari
 <img alt="DNSEnum" width="5%" src="https://www.kali.org/tools/dnsenum/images/dnsenum-logo.svg" />
 <img alt="Gobuster" width="5%" src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" />
 <img alt="Dirbuster" width="5%" src="https://www.kali.org/tools/dirbuster/images/dirbuster-logo.svg" />
-<img alt="crackmapexec" width="5%" src="https://www.kali.org/images/tool-logo-crackmapexec.svg" />
+<img alt="netexec" width="5%" src="https://gitlab.com/uploads/-/system/project/avatar/57293257/kali-netexec.png" />
 <img alt="SQLmap" width="5%" src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" />
 <img alt="John the Ripper" width="5%" src="https://www.kali.org/tools/john/images/john-logo.svg" />
 <img alt="Hashcat" width="5%" src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" />
@@ -79,7 +79,7 @@ Hello, my name is Francis J. Skibicki III, aka 'Fr4nk3J', I enjoy exploring vari
 
 
 <p align="right"> Need to Reach me? <br> <a href="discordapp.com/users/310633454712782848"><img alt="Discord" align="right" width="45px" src="https://cdn.simpleicons.org/discord" /></a>
-<a href="mailto:someone@example.com"><img alt="Email" align="right" width="40px" src="https://cdn.simpleicons.org/microsoftoutlook" /></a>
+<a href="mailto:someone@example.com"><img alt="Email" align="right" width="40px" src="https://cdn.simpleicons.org/protonmail" /></a>
 </p> 
 
 
