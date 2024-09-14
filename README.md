@@ -60,7 +60,7 @@ Hello, my name is Francis J. Skibicki III, aka 'Fr4nk3J', I enjoy exploring vari
 
 <br>
 <p align="center">
-<a href="https://www.linkedin.com/in/francisskibicki/"><img alt="LinkedIn" width="10%" src="https://cdn.simpleicons.org/linkedin" /></a>
+<a href="https://www.linkedin.com/in/fskibicki3/"><img alt="LinkedIn" width="10%" src="https://cdn.simpleicons.org/linkedin" /></a>
 &nbsp;<a href="https://app.hackthebox.com/profile/1577673"><img alt="Hack the Box" width="10%" src="https://cdn.simpleicons.org/hackthebox" /></a>
 &nbsp;<a href="https://tryhackme.com/p/CyberLocc"><img alt="Try Hack Me" width="10%" src="https://cdn.simpleicons.org/tryhackme" /></a>
 &nbsp;<a href="https://hackerone.com/cyberlocc?type=user"><img alt="HackerOne" width="10%" src="https://cdn.simpleicons.org/hackerone" /></a>
