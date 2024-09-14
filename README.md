@@ -79,7 +79,7 @@ Hello, my name is Francis J. Skibicki III, aka 'Fr4nk3J', I enjoy exploring vari
 
 
 <p align="right"> Need to Reach me? <br> <a href="discordapp.com/users/310633454712782848"><img alt="Discord" align="right" width="45px" src="https://cdn.simpleicons.org/discord" /></a>
-<a href="mailto:someone@example.com"><img alt="Email" align="right" width="40px" src="https://cdn.simpleicons.org/protonmail" /></a>
+<a href="mailto:Fr4nk3J@pm.me"><img alt="Email" align="right" width="40px" src="https://cdn.simpleicons.org/protonmail" /></a>
 </p> 
 
 
