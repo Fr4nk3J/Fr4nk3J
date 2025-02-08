@@ -76,6 +76,7 @@ Hello, my name is Francis J. Skibicki III, aka 'Fr4nk3J', I enjoy exploring vari
 <a href="https://www.credly.com/badges/ab3ce156-75b5-4dbc-a89c-1c0019927bee/public_url"><img alt="CompTIA A+" width="12%" src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logoaplus.svg" /></a>
 <a href="https://www.credly.com/badges/cf33dbfa-8e9f-4810-875f-bfef5b631e06/public_url"><img alt="CompTIA Network+" width="12%" src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logonetworkplus.svg" /></a>
 <a href="https://www.credly.com/badges/b4bbfaa4-c3ea-4643-bfe4-d41d9293f79b/public_url"><img alt="CompTIA Security+" width="12%" src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logosecurityplus.svg?sfvrsn=35a7d752_2" /></a>
+<a href="https://www.credly.com/badges/cf33dbfa-8e9f-4810-875f-bfef5b631e06/public_url"><img alt="CompTIA Network+" width="12%" src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logopentestplus.svg" /></a>
 
 
 <p align="right"> Need to Reach me? <br> <a href="discordapp.com/users/310633454712782848"><img alt="Discord" align="right" width="45px" src="https://cdn.simpleicons.org/discord" /></a>
